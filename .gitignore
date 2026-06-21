@@ -1,15 +1,9 @@
-# 数据
+# 数据文件
 *.csv
 *.xlsx
 *.xls
 *.mat
 *.zip
-
-# 数据目录
-
-data/
-raw/
-HPPC_60/
 
 # 结果
 result/
