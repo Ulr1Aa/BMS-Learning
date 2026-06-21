@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\20765\\hppceis_env\\Scripts\\python.exe",
+    "terminal.integrated.defaultProfile.windows": "CommandPrompt",
+    "terminal.integrated.profiles.windows": {
+        "CommandPrompt": {
+            "path": "cmd.exe",
+            "args": ["/K", "C:\\Users\\20765\\hppceis_env\\Scripts\\activate.bat"]
+        }
+    }
+}

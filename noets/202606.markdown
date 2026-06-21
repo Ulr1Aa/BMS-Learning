@@ -1,0 +1,4 @@
+激活虚拟环境：
+
+cmd:
+C:\Users\20765\hppceis_env\Scripts\activate.bat

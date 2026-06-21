@@ -1,0 +1,28 @@
+# 数据
+*.csv
+*.xlsx
+*.xls
+*.mat
+*.zip
+
+# 数据目录
+
+data/
+raw/
+HPPC_60/
+
+# 结果
+result/
+output/
+*.png
+*.jpg
+
+# 环境
+env/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
